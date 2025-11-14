@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe wijdverbreid is mensenhandel in de EU?",
+  "subtitle": "In 2023 waren er in de EU 10.793 slachtoffers van mensenhandel geregistreerd, een stijging van 6,9% ten opzichte van 2022.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De waarden zijn gebaseerd op cijfers voor mensenhandel met het oog op seksuele uitbuiting, mensenhandel met het oog op gedwongen arbeid of diensten en mensenhandel voor andere doeleinden (orgaanverwijdering, gedwongen bedelarij, uitkeringsfraude, criminele activiteiten). Geen gegevens voor Finland.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "per honderdduizend inwoners",
   "tooltipExtraInfoLabel": "Klik hier"
 }
