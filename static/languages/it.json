@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanto è diffusa la tratta di esseri umani nell'UE?",
+  "subtitle": "Nel 2023 sono state registrate nell'UE 10 793 vittime della tratta di esseri umani, con un aumento del 6,9% rispetto al 2022.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "I valori si basano sui numeri relativi alla tratta di esseri umani a scopo di sfruttamento sessuale, alla tratta di esseri umani per lavoro o servizi forzati e alla tratta di esseri umani per altri scopi (espianto di organi, accattonaggio forzato, frode sui sussidi, attività criminali). Nessun dato per la Finlandia.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "ogni centomila abitanti",
   "tooltipExtraInfoLabel": "clicca qui"
 }
