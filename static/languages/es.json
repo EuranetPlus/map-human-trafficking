@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Qué tan extendida está la trata de personas en la UE?",
+  "subtitle": "En 2023, se registraron 10.793 víctimas de trata de personas en la UE, un aumento del 6,9% en comparación con 2022.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los valores se basan en cifras de trata de personas con fines de explotación sexual, trata de personas para trabajos forzados o servicios y trata de personas con otros fines (extracción de órganos, mendicidad forzada, fraude de prestaciones sociales, actividades delictivas). No hay datos para Finlandia.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
-  "legend1": "No hay datos disponibles",
+  "textSource": "Eurostat (2023)",
+  "linkDataAccessDescription": "Acceda a los datos",
+  "legend1": "No hay datos disponibles.",
+  "customUnitLabel": "por cada cien mil habitantes",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
