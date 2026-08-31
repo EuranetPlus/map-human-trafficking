@@ -1,11 +1,12 @@
 {
   "title": "Jak powszechny jest handel ludźmi w UE?",
-  "subtitle": "W 2023 r. w UE zarejestrowano 10 793 ofiary handlu ludźmi, co stanowi wzrost o 6,9% w porównaniu z 2022 r.",
+  "subtitle": "W 2024 r. w UE zarejestrowano 9678 ofiar handlu ludźmi, czyli o 8% mniej niż w 2023 r.",
   "textNoteDescription": "Notatka",
   "textNote": "Wartości oparte są na statystykach dotyczących handlu ludźmi w celu wykorzystywania seksualnego, handlu ludźmi do pracy przymusowej lub świadczenia usług oraz handlu ludźmi w innych celach (pobieranie organów, zmuszanie do żebractwa, wyłudzanie świadczeń, działalność przestępcza). Brak danych dla Finlandii.",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_FI": "Brak dostępnych danych",
   "legend1": "Brak dostępnych danych",
   "customUnitLabel": "na sto tysięcy mieszkańców",
   "tooltipExtraInfoLabel": "Kliknij tutaj"

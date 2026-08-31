@@ -1,11 +1,12 @@
 {
   "title": "Kui laialt levinud on inimkaubandus ELis?",
-  "subtitle": "2023. aastal registreeriti ELis 10 793 inimkaubanduse ohvrit, mis on 6,9% rohkem kui 2022. aastal.",
+  "subtitle": "2024. aastal registreeriti ELis inimkaubanduse ohvritena 9678 inimest – 8% vähem kui 2023. aastal.",
   "textNoteDescription": "Märkus",
   "textNote": "Väärtused põhinevad seksuaalse ärakasutamise eesmärgil toimuva inimkaubanduse, sunniviisilise töö või teenuste osutamise eesmärgil toimuva inimkaubanduse ja muul eesmärgil toimuva inimkaubanduse (elundite eemaldamine, sunniviisiline kerjamine, toetustega seotud pettus, kuritegevus) arvudel. Soome kohta andmed puuduvad.",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
+  "extraInfo_FI": "Andmed pole saadaval",
   "legend1": "Andmed pole saadaval",
   "customUnitLabel": "saja tuhande elaniku kohta",
   "tooltipExtraInfoLabel": "Kliki siia"

@@ -1,11 +1,12 @@
 {
   "title": "Mennyire elterjedt az emberkereskedelem az EU-ban?",
-  "subtitle": "2023-ban 10 793 emberkereskedelem áldozatát regisztrálták az EU-ban, ami 6,9%-os növekedést jelent 2022-höz képest.",
+  "subtitle": "2024-ben 9678 embert regisztráltak emberkereskedelem áldozataként az EU-ban – 8%-kal kevesebbet, mint 2023-ban.",
   "textNoteDescription": "Jegyzet",
   "textNote": "Az értékek a szexuális kizsákmányolás céljából történő emberkereskedelem, a kényszermunka vagy kényszerszolgáltatás céljából történő emberkereskedelem, valamint az egyéb célú emberkereskedelem (szervkivétel, kényszerkoldulás, segélycsalás, bűncselekmények) adatain alapulnak. Finnországra vonatkozóan nincsenek adatok.",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "extraInfo_FI": "Nincsenek elérhető adatok",
   "legend1": "Nincsenek elérhető adatok",
   "customUnitLabel": "százezer lakosonként",
   "tooltipExtraInfoLabel": "Kattintson ide"

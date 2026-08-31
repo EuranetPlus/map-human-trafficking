@@ -1,11 +1,12 @@
 {
   "title": "Kako razširjena je trgovina z ljudmi v EU?",
-  "subtitle": "Leta 2023 je bilo v EU registriranih 10.793 žrtev trgovine z ljudmi, kar je 6,9 % več kot leta 2022.",
+  "subtitle": "Leta 2024 je bilo v EU kot žrtev trgovine z ljudmi registriranih 9.678 ljudi, kar je 8 % manj kot leta 2023.",
   "textNoteDescription": "Opomba",
   "textNote": "Vrednosti temeljijo na številkah o trgovini z ljudmi za spolno izkoriščanje, trgovini z ljudmi za prisilno delo ali storitve in trgovini z ljudmi za druge namene (odvzem organov, prisilno beračenje, goljufije s prejemki, kriminalne dejavnosti). Za Finsko ni podatkov.",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Dostop do podatkov",
+  "extraInfo_FI": "Ni na voljo podatkov",
   "legend1": "Ni na voljo podatkov",
   "customUnitLabel": "na sto tisoč prebivalcev",
   "tooltipExtraInfoLabel": "Kliknite tukaj"

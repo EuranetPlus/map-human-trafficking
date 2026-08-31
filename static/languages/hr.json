@@ -1,11 +1,12 @@
 {
   "title": "Koliko je raširena trgovina ljudima u EU?",
-  "subtitle": "U 2023. godini u EU je registrirano 10 793 žrtava trgovine ljudima, što je porast od 6,9 % u usporedbi s 2022. godinom.",
+  "subtitle": "U EU je 2024. godine registrirano 9.678 žrtava trgovine ljudima, što je 8% manje nego 2023. godine.",
   "textNoteDescription": "Bilješka",
   "textNote": "Vrijednosti se temelje na brojkama za trgovinu ljudima radi seksualnog iskorištavanja, trgovinu ljudima radi prisilnog rada ili usluga i trgovinu ljudima u druge svrhe (vađenje organa, prisilno prosjačenje, prijevara s naknadama, kriminalne aktivnosti). Nema podataka za Finsku.",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat (2023.)",
   "linkDataAccessDescription": "Pristup podacima",
+  "extraInfo_FI": "Nema dostupnih podataka",
   "legend1": "Nema dostupnih podataka",
   "customUnitLabel": "na sto tisuća stanovnika",
   "tooltipExtraInfoLabel": "Kliknite ovdje"

@@ -1,12 +1,13 @@
 {
-  "title": "Quanto è diffusa la tratta di esseri umani nell'UE?",
-  "subtitle": "Nel 2023 sono state registrate nell'UE 10 793 vittime della tratta di esseri umani, con un aumento del 6,9% rispetto al 2022.",
+  "title": "Quanto è diffuso il traffico di esseri umani nell'UE?",
+  "subtitle": "Nel 2024, nell'UE sono state registrate 9.678 vittime di tratta di esseri umani, l'8% in meno rispetto al 2023.",
   "textNoteDescription": "Nota",
-  "textNote": "I valori si basano sui numeri relativi alla tratta di esseri umani a scopo di sfruttamento sessuale, alla tratta di esseri umani per lavoro o servizi forzati e alla tratta di esseri umani per altri scopi (espianto di organi, accattonaggio forzato, frode sui sussidi, attività criminali). Nessun dato per la Finlandia.",
+  "textNote": "I valori si basano sui dati relativi alla tratta di esseri umani a scopo di sfruttamento sessuale, alla tratta di esseri umani a scopo di lavoro o servizi forzati e alla tratta di esseri umani per altri scopi (prelievo di organi, accattonaggio forzato, frode ai danni dello Stato, attività criminali). Nessun dato disponibile per la Finlandia.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2023)",
-  "linkDataAccessDescription": "Accedi ai dati",
+  "linkDataAccessDescription": "Accedere ai dati",
+  "extraInfo_FI": "Nessun dato disponibile",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "ogni centomila abitanti",
+  "customUnitLabel": "per centomila abitanti",
   "tooltipExtraInfoLabel": "clicca qui"
 }

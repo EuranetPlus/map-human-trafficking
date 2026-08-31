@@ -1,11 +1,12 @@
 {
   "title": "Wie verbreitet ist Menschenhandel in der EU?",
-  "subtitle": "Im Jahr 2023 wurden in der EU 10.793 Opfer von Menschenhandel registriert, ein Anstieg um 6,9 % gegenüber 2022.",
+  "subtitle": "Im Jahr 2024 wurden in der EU 9.678 Menschen als Opfer von Menschenhandel registriert – 8 % weniger als im Jahr 2023.",
   "textNoteDescription": "Notiz",
   "textNote": "Die Werte basieren auf den Zahlen zu Menschenhandel zum Zweck der sexuellen Ausbeutung, Menschenhandel zur Zwangsarbeit oder Zwangsdienstleistung sowie Menschenhandel zu anderen Zwecken (Organentnahme, erzwungenes Betteln, Sozialleistungsbetrug, kriminelle Aktivitäten). Für Finnland liegen keine Daten vor.",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "extraInfo_FI": "Keine Daten verfügbar",
   "legend1": "Keine Daten verfügbar",
   "customUnitLabel": "pro hunderttausend Einwohner",
   "tooltipExtraInfoLabel": "klicken Sie hier"

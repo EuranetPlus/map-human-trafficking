@@ -1,11 +1,12 @@
 {
   "title": "Cé chomh forleathan is atá an gáinneáil ar dhaoine san AE?",
-  "subtitle": "Sa bhliain 2023, cláraíodh 10,793 íospartach gáinneála ar dhaoine san AE, méadú 6.9% i gcomparáid le 2022.",
+  "subtitle": "Cláraíodh 9,678 duine mar íospartaigh gáinneála ar dhaoine san AE in 2024 — 8% níos lú ná in 2023.",
   "textNoteDescription": "Nóta",
   "textNote": "Tá na luachanna bunaithe ar fhigiúirí maidir le gáinneáil ar dhaoine chun críocha dúshaothraithe gnéis, gáinneáil ar dhaoine chun críocha saothair nó seirbhísí éigeantaigh agus gáinneáil ar dhaoine chun críocha eile (orgáin a bhaint, déirceoireacht éigeantach, calaois shochair, gníomhaíochtaí coiriúla). Níl aon sonraí ann don Fhionlainn.",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "extraInfo_FI": "Níl aon sonraí ar fáil",
   "legend1": "Níl aon sonraí ar fáil",
   "customUnitLabel": "in aghaidh gach céad míle áitritheoir",
   "tooltipExtraInfoLabel": "Cliceáil anseo"

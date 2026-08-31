@@ -1,11 +1,12 @@
 {
   "title": "Qual a extensão do tráfico de seres humanos na UE?",
-  "subtitle": "Em 2023, foram registadas 10.793 vítimas de tráfico humano na UE, um aumento de 6,9% em comparação com 2022.",
+  "subtitle": "Em 2024, 9.678 pessoas foram registadas como vítimas de tráfico humano na UE — menos 8% do que em 2023.",
   "textNoteDescription": "Observação",
   "textNote": "Os valores são baseados em números relativos ao tráfico de pessoas para exploração sexual, tráfico de pessoas para trabalho ou serviços forçados e tráfico de pessoas para outros fins (remoção de órgãos, mendicância forçada, fraude de benefícios sociais, atividades criminosas). Não há dados para a Finlândia.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Acesse os dados",
+  "extraInfo_FI": "Não há dados disponíveis.",
   "legend1": "Não há dados disponíveis.",
   "customUnitLabel": "por cem mil habitantes",
   "tooltipExtraInfoLabel": "Clique aqui"

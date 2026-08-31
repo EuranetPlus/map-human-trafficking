@@ -1,11 +1,12 @@
 {
   "title": "Kuinka laajalle levinnyttä ihmiskauppa on EU:ssa?",
-  "subtitle": "Vuonna 2023 EU:ssa rekisteröitiin 10 793 ihmiskaupan uhria, mikä on 6,9 prosenttia enemmän kuin vuonna 2022.",
+  "subtitle": "EU:ssa rekisteröitiin 9 678 ihmiskaupan uhria vuonna 2024 – 8 prosenttia vähemmän kuin vuonna 2023.",
   "textNoteDescription": "Huomautus",
   "textNote": "Arvot perustuvat seksuaaliseen hyväksikäyttöön, pakkotyöhön tai -palveluihin liittyvään ihmiskauppaan ja muihin tarkoituksiin (elinten poisto, pakotettu kerjääminen, etuuksien väärinkäyttö, rikollinen toiminta) liittyvään ihmiskauppaan liittyviin lukuihin. Suomesta ei ole tietoja.",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Käytä tietoja",
+  "extraInfo_FI": "Ei tietoja saatavilla",
   "legend1": "Ei tietoja saatavilla",
   "customUnitLabel": "sataatuhatta asukasta kohden",
   "tooltipExtraInfoLabel": "Klikkaa tästä"

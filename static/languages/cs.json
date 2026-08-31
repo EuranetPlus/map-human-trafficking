@@ -1,11 +1,12 @@
 {
   "title": "Jak rozšířený je obchod s lidmi v EU?",
-  "subtitle": "V roce 2023 bylo v EU registrováno 10 793 obětí obchodování s lidmi, což představuje nárůst o 6,9 % ve srovnání s rokem 2022.",
+  "subtitle": "V roce 2024 bylo v EU registrováno 9 678 obětí obchodování s lidmi – o 8 % méně než v roce 2023.",
   "textNoteDescription": "Poznámka",
   "textNote": "Hodnoty jsou založeny na číslech obchodování s lidmi za účelem sexuálního vykořisťování, obchodování s lidmi za účelem nucené práce nebo služeb a obchodování s lidmi pro jiné účely (odebírání orgánů, nucené žebrání, podvody s dávkami, trestná činnost). Pro Finsko nejsou k dispozici žádné údaje.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Přístup k datům",
+  "extraInfo_FI": "Nejsou k dispozici žádná data",
   "legend1": "Nejsou k dispozici žádná data",
   "customUnitLabel": "na sto tisíc obyvatel",
   "tooltipExtraInfoLabel": "Klikněte zde"

@@ -1,11 +1,12 @@
 {
   "title": "Cik plaši izplatīta ir cilvēku tirdzniecība ES?",
-  "subtitle": "2023. gadā ES tika reģistrēti 10 793 cilvēku tirdzniecības upuri, kas ir par 6,9 % vairāk nekā 2022. gadā.",
+  "subtitle": "2024. gadā ES kā cilvēku tirdzniecības upuri tika reģistrēti 9678 cilvēki — par 8 % mazāk nekā 2023. gadā.",
   "textNoteDescription": "Piezīme",
   "textNote": "Vērtības ir balstītas uz skaitļiem par cilvēku tirdzniecību seksuālas izmantošanas nolūkos, cilvēku tirdzniecību piespiedu darba vai pakalpojumu sniegšanas nolūkos un cilvēku tirdzniecību citiem mērķiem (orgānu izņemšana, piespiedu ubagošana, pabalstu krāpšana, noziedzīgas darbības). Par Somiju datu nav.",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
+  "extraInfo_FI": "Dati nav pieejami",
   "legend1": "Dati nav pieejami",
   "customUnitLabel": "uz simts tūkstošiem iedzīvotāju",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"

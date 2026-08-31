@@ -1,11 +1,12 @@
 {
   "title": "Cât de răspândit este traficul de persoane în UE?",
-  "subtitle": "În 2023, în UE au fost înregistrate 10 793 de victime ale traficului de persoane, o creștere de 6,9% față de 2022.",
+  "subtitle": "9.678 de persoane au fost înregistrate ca victime ale traficului de persoane în UE în 2024 - cu 8% mai puține decât în 2023.",
   "textNoteDescription": "Nota",
   "textNote": "Valorile se bazează pe cifrele privind traficul de persoane în scopul exploatării sexuale, traficul de persoane în scopul muncii sau prestării de servicii forțate și traficul de persoane în alte scopuri (prelevarea de organe, cerșetoria forțată, frauda cu beneficii, activități infracționale). Nu există date pentru Finlanda.",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Accesați datele",
+  "extraInfo_FI": "Nu sunt disponibile date",
   "legend1": "Nu sunt disponibile date",
   "customUnitLabel": "la o sută de mii de locuitori",
   "tooltipExtraInfoLabel": "Click aici"

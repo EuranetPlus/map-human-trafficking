@@ -1,14 +1,15 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "How widespread is human trafficking in the EU?",
-  "subtitle": "In 2023,10 793 victims of human trafficking were registered in the EU, an increase of 6.9% compared with 2022.",
+  "subtitle": "9,678 people were registered as victims of human trafficking in the EU in 2024 — 8% fewer than in 2023.",
   "colourSchemeClasses": 7,
-  "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,4.79,false,,,,,,,,,\nBelgium,BE,1.35,false,,,,,,,,,\nBulgaria,BG,1.42,false,,,,,,,,,\nCyprus,CY,3.69,false,,,,,,,,,\nCzechia,CZ,0.19,false,,,,,,,,,\nGermany,DE,0.96,false,,,,,,,,,\nDenmark,DK,1.84,false,,,,,,,,,\nEstonia,EE,3.88,false,,,,,,,,,\nGreece,EL,5.44,false,,,,,,,,,\nSpain,ES,1.05,false,,,,,,,,,\nFrance,FR,2.66,false,,,,,,,,,\nCroatia,HR,0.64,false,,,,,,,,,\nHungary,HU,1.38,false,,,,,,,,,\nIreland,IE,1,false,,,,,,,,,\nItaly,IT,2.72,false,,,,,,,,,\nLithuania,LT,0.51,false,,,,,,,,,\nLuxembourg,LU,15.43,false,,,,,,,,,\nLatvia,LV,1.96,false,,,,,,,,,\nMalta,MT,1.11,false,,,,,,,,,\nNetherlands,NL,4.99,false,,,,,,,,,\nPoland,PL,2.84,false,,,,,,,,,\nPortugal,PT,3.43,false,,,,,,,,,\nRomania,RO,2.23,false,,,,,,,,,\nSweden,SE,2.26,false,,,,,,,,,\nSlovenia,SI,0.99,false,,,,,,,,,\nSlovakia,SK,0.87,false,,,,,,,,,",
+  "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,4.73,FALSE,,,,,,,,,\nBelgium,BE,0.95,FALSE,,,,,,,,,\nBulgaria,BG,1.00,FALSE,,,,,,,,,\nCyprus,CY,3.41,FALSE,,,,,,,,,\nCzechia,CZ,0.42,FALSE,,,,,,,,,\nGermany,DE,1.00,FALSE,,,,,,,,,\nDenmark,DK,1.30,FALSE,,,,,,,,,\nEstonia,EE,0.66,FALSE,,,,,,,,,\nGreece,EL,4.66,FALSE,,,,,,,,,\nSpain,ES,1.06,FALSE,,,,,,,,,\nFinland,FI,,TRUE,\"No data available\",,,,,,,,\nFrance,FR,2.59,FALSE,,,,,,,,,\nCroatia,HR,0.60,FALSE,,,,,,,,,\nItaly,IT,2.44,FALSE,,,,,,,,,\nLithuania,LT,0.79,FALSE,,,,,,,,,\nLuxembourg,LU,6.99,FALSE,,,,,,,,,\nLatvia,LV,2.02,FALSE,,,,,,,,,\nMalta,MT,2.48,FALSE,,,,,,,,,\nNetherlands,NL,5.59,FALSE,,,,,,,,,\nPoland,PL,0.87,FALSE,,,,,,,,,\nPortugal,PT,1.86,FALSE,,,,,,,,,\nRomania,RO,3.20,FALSE,,,,,,,,,\nSweden,SE,1.71,FALSE,,,,,,,,,\nSlovenia,SI,0.80,FALSE,,,,,,,,,\nSlovakia,SK,0.80,FALSE,,,,,,,,,\nHungary,HU,1.48,FALSE,,,,,,,,,\nIreland,IE,1.25,FALSE,,,,,,,,,",
   "parsedData": [
     {
       "country": "Austria",
       "id": "AT",
-      "value": 4.79,
+      "value": 4.73,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -23,7 +24,7 @@ export const mapConfig = writable({
     {
       "country": "Belgium",
       "id": "BE",
-      "value": 1.35,
+      "value": 0.95,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -38,7 +39,7 @@ export const mapConfig = writable({
     {
       "country": "Bulgaria",
       "id": "BG",
-      "value": 1.42,
+      "value": 1,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -53,7 +54,7 @@ export const mapConfig = writable({
     {
       "country": "Cyprus",
       "id": "CY",
-      "value": 3.69,
+      "value": 3.41,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -68,7 +69,7 @@ export const mapConfig = writable({
     {
       "country": "Czechia",
       "id": "CZ",
-      "value": 0.19,
+      "value": 0.42,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -83,7 +84,7 @@ export const mapConfig = writable({
     {
       "country": "Germany",
       "id": "DE",
-      "value": 0.96,
+      "value": 1,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -98,7 +99,7 @@ export const mapConfig = writable({
     {
       "country": "Denmark",
       "id": "DK",
-      "value": 1.84,
+      "value": 1.3,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -113,7 +114,7 @@ export const mapConfig = writable({
     {
       "country": "Estonia",
       "id": "EE",
-      "value": 3.88,
+      "value": 0.66,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -128,7 +129,7 @@ export const mapConfig = writable({
     {
       "country": "Greece",
       "id": "EL",
-      "value": 5.44,
+      "value": 4.66,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -143,7 +144,7 @@ export const mapConfig = writable({
     {
       "country": "Spain",
       "id": "ES",
-      "value": 1.05,
+      "value": 1.06,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -156,9 +157,24 @@ export const mapConfig = writable({
       "video_url": ""
     },
     {
+      "country": "Finland",
+      "id": "FI",
+      "value": null,
+      "extraInfo": true,
+      "text_content": "No data available",
+      "link_text": "",
+      "link_url_target": "",
+      "audio_url_1": "",
+      "audio_url_2": "",
+      "audio_url_3": "",
+      "image_url_source": "",
+      "image_url_target": "",
+      "video_url": ""
+    },
+    {
       "country": "France",
       "id": "FR",
-      "value": 2.66,
+      "value": 2.59,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -173,37 +189,7 @@ export const mapConfig = writable({
     {
       "country": "Croatia",
       "id": "HR",
-      "value": 0.64,
-      "extraInfo": false,
-      "text_content": "",
-      "link_text": "",
-      "link_url_target": "",
-      "audio_url_1": "",
-      "audio_url_2": "",
-      "audio_url_3": "",
-      "image_url_source": "",
-      "image_url_target": "",
-      "video_url": ""
-    },
-    {
-      "country": "Hungary",
-      "id": "HU",
-      "value": 1.38,
-      "extraInfo": false,
-      "text_content": "",
-      "link_text": "",
-      "link_url_target": "",
-      "audio_url_1": "",
-      "audio_url_2": "",
-      "audio_url_3": "",
-      "image_url_source": "",
-      "image_url_target": "",
-      "video_url": ""
-    },
-    {
-      "country": "Ireland",
-      "id": "IE",
-      "value": 1,
+      "value": 0.6,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -218,7 +204,7 @@ export const mapConfig = writable({
     {
       "country": "Italy",
       "id": "IT",
-      "value": 2.72,
+      "value": 2.44,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -233,7 +219,7 @@ export const mapConfig = writable({
     {
       "country": "Lithuania",
       "id": "LT",
-      "value": 0.51,
+      "value": 0.79,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -248,7 +234,7 @@ export const mapConfig = writable({
     {
       "country": "Luxembourg",
       "id": "LU",
-      "value": 15.43,
+      "value": 6.99,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -263,7 +249,7 @@ export const mapConfig = writable({
     {
       "country": "Latvia",
       "id": "LV",
-      "value": 1.96,
+      "value": 2.02,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -278,7 +264,7 @@ export const mapConfig = writable({
     {
       "country": "Malta",
       "id": "MT",
-      "value": 1.11,
+      "value": 2.48,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -293,7 +279,7 @@ export const mapConfig = writable({
     {
       "country": "Netherlands",
       "id": "NL",
-      "value": 4.99,
+      "value": 5.59,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -308,7 +294,7 @@ export const mapConfig = writable({
     {
       "country": "Poland",
       "id": "PL",
-      "value": 2.84,
+      "value": 0.87,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -323,7 +309,7 @@ export const mapConfig = writable({
     {
       "country": "Portugal",
       "id": "PT",
-      "value": 3.43,
+      "value": 1.86,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -338,7 +324,7 @@ export const mapConfig = writable({
     {
       "country": "Romania",
       "id": "RO",
-      "value": 2.23,
+      "value": 3.2,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -353,7 +339,7 @@ export const mapConfig = writable({
     {
       "country": "Sweden",
       "id": "SE",
-      "value": 2.26,
+      "value": 1.71,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -368,7 +354,7 @@ export const mapConfig = writable({
     {
       "country": "Slovenia",
       "id": "SI",
-      "value": 0.99,
+      "value": 0.8,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -383,7 +369,37 @@ export const mapConfig = writable({
     {
       "country": "Slovakia",
       "id": "SK",
-      "value": 0.87,
+      "value": 0.8,
+      "extraInfo": false,
+      "text_content": "",
+      "link_text": "",
+      "link_url_target": "",
+      "audio_url_1": "",
+      "audio_url_2": "",
+      "audio_url_3": "",
+      "image_url_source": "",
+      "image_url_target": "",
+      "video_url": ""
+    },
+    {
+      "country": "Hungary",
+      "id": "HU",
+      "value": 1.48,
+      "extraInfo": false,
+      "text_content": "",
+      "link_text": "",
+      "link_url_target": "",
+      "audio_url_1": "",
+      "audio_url_2": "",
+      "audio_url_3": "",
+      "image_url_source": "",
+      "image_url_target": "",
+      "video_url": ""
+    },
+    {
+      "country": "Ireland",
+      "id": "IE",
+      "value": 1.25,
       "extraInfo": false,
       "text_content": "",
       "link_text": "",
@@ -426,15 +442,17 @@ export const mapConfig = writable({
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "How widespread is human trafficking in the EU?",
-    "subtitle": "In 2023,10 793 victims of human trafficking were registered in the EU, an increase of 6.9% compared with 2022.",
+    "subtitle": "9,678 people were registered as victims of human trafficking in the EU in 2024 — 8% fewer than in 2023.",
     "textNoteDescription": "Note",
     "textNote": "The values are based on numbers for human trafficking for sexual exploitation, human trafficking for forced labour or services and human trafficking for other purposes (organ removal, forced begging, benefit fraud, criminal activities). No data for Finland.",
     "textSourceDescription": "Source",
     "textSource": "Eurostat (2023)",
     "linkDataAccessDescription": "Access the data",
     "legend1": "No data available",
-    "tooltipExtraInfoLabel": "Click here"
+    "tooltipExtraInfoLabel": "Click here",
+    "extraInfo_FI": "No data available"
   },
   "clusters": [],
-  "colorScale": null
+  "colorScale": null,
+  "extraInfo_FI": "No data available"
 });

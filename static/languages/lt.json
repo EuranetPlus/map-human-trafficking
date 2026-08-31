@@ -1,11 +1,12 @@
 {
   "title": "Kiek plačiai paplitusi prekyba žmonėmis ES?",
-  "subtitle": "2023 m. ES buvo užregistruotos 10 793 prekybos žmonėmis aukos – 6,9 % daugiau nei 2022 m.",
+  "subtitle": "2024 m. ES prekybos žmonėmis aukomis buvo užregistruoti 9 678 žmonės – 8 % mažiau nei 2023 m.",
   "textNoteDescription": "Pastaba",
   "textNote": "Šios vertės pagrįstos prekybos žmonėmis seksualinio išnaudojimo, priverstinio darbo ar paslaugų teikimo tikslais ir kitais tikslais (organų išėmimo, priverstinio elgetavimo, pašalpų sukčiavimo, nusikalstamos veiklos) skaičiais. Suomijos duomenų nėra.",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas (2023 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_FI": "Nėra duomenų",
   "legend1": "Nėra duomenų",
   "customUnitLabel": "šimtui tūkstančių gyventojų",
   "tooltipExtraInfoLabel": "Spustelėkite čia"

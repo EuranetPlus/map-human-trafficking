@@ -1,12 +1,13 @@
 {
-  "title": "¿Qué tan extendida está la trata de personas en la UE?",
-  "subtitle": "En 2023, se registraron 10.793 víctimas de trata de personas en la UE, un aumento del 6,9% en comparación con 2022.",
+  "title": "¿Qué grado de trata de personas está extendida en la UE?",
+  "subtitle": "En 2024, 9.678 personas fueron registradas como víctimas de trata de personas en la UE, un 8 % menos que en 2023.",
   "textNoteDescription": "Nota",
-  "textNote": "Los valores se basan en cifras de trata de personas con fines de explotación sexual, trata de personas para trabajos forzados o servicios y trata de personas con otros fines (extracción de órganos, mendicidad forzada, fraude de prestaciones sociales, actividades delictivas). No hay datos para Finlandia.",
+  "textNote": "Los valores se basan en cifras de trata de personas con fines de explotación sexual, trata de personas con fines de trabajo o servicios forzosos y trata de personas con otros fines (extracción de órganos, mendicidad forzada, fraude de prestaciones sociales, actividades delictivas). No hay datos disponibles para Finlandia.",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat (2023)",
-  "linkDataAccessDescription": "Acceda a los datos",
-  "legend1": "No hay datos disponibles.",
+  "linkDataAccessDescription": "Acceder a los datos",
+  "extraInfo_FI": "No hay datos disponibles",
+  "legend1": "No hay datos disponibles",
   "customUnitLabel": "por cada cien mil habitantes",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
